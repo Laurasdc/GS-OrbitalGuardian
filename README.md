@@ -209,6 +209,12 @@ Relatório operacional
 
 ---
 
+## Diagrama de Fluxo
+
+<img width="601" height="1401" alt="Diagrama drawio" src="https://github.com/user-attachments/assets/a9bbd947-d502-4f46-b16e-041df308e7d0" />
+
+---
+
 ## Como Executar
 
 1. Abra o projeto no Visual Studio.
