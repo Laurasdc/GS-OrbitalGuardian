@@ -215,6 +215,10 @@ Relatório operacional
 
 ---
 
+## Evidências de Execução
+
+Estrutura Pastas: <img width="281" height="857" alt="estrutura pastas" src="https://github.com/user-attachments/assets/e7fb45d0-692d-4d32-9a23-a5f3ee778250" />
+
 ## Como Executar
 
 1. Abra o projeto no Visual Studio.
