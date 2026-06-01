@@ -93,8 +93,9 @@ O projeto aplica os principais conceitos solicitados no enunciado:
 
 ## Estrutura do Projeto
 
-<img width="291" height="824" alt="image" src="https://github.com/user-attachments/assets/b604c414-efe5-43b5-9f29-dc5121761576" />
-<img width="284" height="199" alt="image" src="https://github.com/user-attachments/assets/15ad0082-2c4e-4e8b-b812-f848c50db320" />
+<img width="288" height="820" alt="image" src="https://github.com/user-attachments/assets/4cb6acb3-0dc4-4a5a-95af-67b203d9ade0" />
+<img width="276" height="126" alt="image" src="https://github.com/user-attachments/assets/5c76c1b2-6029-4ce1-a908-98c7a84493b0" />
+
 
 ---
 
