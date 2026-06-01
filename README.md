@@ -175,7 +175,7 @@ Relatório operacional
 
 As evidências de execução estão disponíveis na pasta:
 
-`docs/evidencias-execucao`
+`evidencias-execucao`
 
 ## Como Executar
 
