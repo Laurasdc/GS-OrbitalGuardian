@@ -93,53 +93,7 @@ O projeto aplica os principais conceitos solicitados no enunciado:
 
 ## Estrutura do Projeto
 
-```txt
-OrbitalGuardian
-│
-├── Application
-│   └── SistemaOrbitalGuardian.cs
-│
-├── Enums
-│   ├── NivelRisco.cs
-│   ├── StatusAlerta.cs
-│   ├── StatusOcorrencia.cs
-│   └── TipoSensor.cs
-│
-├── Exceptions
-│   ├── MedicaoInvalidaException.cs
-│   └── SensorInativoException.cs
-│
-├── Interfaces
-│   ├── ICalculadoraPrioridade.cs
-│   ├── IClassificadorRisco.cs
-│   └── IArquivoRepository.cs
-│
-├── Models
-│   ├── Alerta.cs
-│   ├── CenarioAmbiental.cs
-│   ├── Coordenada.cs
-│   ├── MedicaoClimatica.cs
-│   ├── Ocorrencia.cs
-│   ├── RegiaoMonitorada.cs
-│   ├── Sensor.cs
-│   ├── SensorAmbiental.cs
-│   └── SensorOrbital.cs
-│
-├── Repositories
-│   └── ArquivoRepository.cs
-│
-├── Services
-│   ├── AlertaService.cs
-│   ├── AlertaService.Partial.cs
-│   ├── CalculadoraPrioridadeService.cs
-│   └── ClassificadorRiscoService.cs
-│
-├── Utils
-│   ├── ConfiguracoesSistema.cs
-│   └── FormatadorData.cs
-│
-└── Program.cs
-```
+Estrutura Pastas: <img width="281" height="857" alt="estrutura pastas" src="https://github.com/user-attachments/assets/e7fb45d0-692d-4d32-9a23-a5f3ee778250" />
 
 ---
 
@@ -217,7 +171,9 @@ Relatório operacional
 
 ## Evidências de Execução
 
-Estrutura Pastas: <img width="281" height="857" alt="estrutura pastas" src="https://github.com/user-attachments/assets/e7fb45d0-692d-4d32-9a23-a5f3ee778250" />
+As evidências de execução estão disponíveis na pasta:
+
+`docs/evidencias-execucao`
 
 ## Como Executar
 
