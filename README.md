@@ -93,7 +93,8 @@ O projeto aplica os principais conceitos solicitados no enunciado:
 
 ## Estrutura do Projeto
 
-Estrutura Pastas: <img width="281" height="857" alt="estrutura pastas" src="https://github.com/user-attachments/assets/e7fb45d0-692d-4d32-9a23-a5f3ee778250" />
+<img width="291" height="824" alt="image" src="https://github.com/user-attachments/assets/b604c414-efe5-43b5-9f29-dc5121761576" />
+<img width="284" height="199" alt="image" src="https://github.com/user-attachments/assets/15ad0082-2c4e-4e8b-b812-f848c50db320" />
 
 ---
 
